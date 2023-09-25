@@ -1,0 +1,6 @@
+﻿  VCpp2.cpp
+C:\Users\tbvja\OneDrive\바탕 화면\쉅 자료\VC++\VCpp2\VCpp2\VCpp2.cpp(39,28): warning C4566: 유니버설 문자 이름 '\u256D'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\tbvja\OneDrive\바탕 화면\쉅 자료\VC++\VCpp2\VCpp2\VCpp2.cpp(39,28): warning C4566: 유니버설 문자 이름 '\u0E51'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\tbvja\OneDrive\바탕 화면\쉅 자료\VC++\VCpp2\VCpp2\VCpp2.cpp(39,28): warning C4566: 유니버설 문자 이름 '\u00AF'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\tbvja\OneDrive\바탕 화면\쉅 자료\VC++\VCpp2\VCpp2\VCpp2.cpp(39,28): warning C4566: 유니버설 문자 이름 '\u256E'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+  VCpp2.vcxproj -> C:\Users\tbvja\OneDrive\바탕 화면\쉅 자료\VC++\VCpp2\x64\Debug\VCpp2.exe
