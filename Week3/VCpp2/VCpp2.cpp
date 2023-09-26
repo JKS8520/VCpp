@@ -36,14 +36,14 @@ int main()
                 }
 
                 if ((result[i] == -32 && result[i + 1] == 996) && (result[i + 2] == -32 && result[i + 3] == 998) && (result[i + 4] == -32 && result[i + 5] == 997) && (char)result[i + 6] == 'd') {
-                    printf("\n 웨쨰럐궤~ ╭(๑¯д¯๑)╮ \n");// 하 좌 상 우 d
+                    printf("\n 웨쨰럐궤~ ╭(๑¯д¯๑)╮ \n");// 좌 상 우 d
                     // 문자 배열을 비움
                     clear(result, index);
                     index = 0;
                 }
 
                 if ((result[i] == -32 && result[i + 1] == 997) && (result[i + 2] == -32 && result[i + 3] == 999) && (result[i + 4] == -32 && result[i + 5] == 997) && (char)result[i + 6] == 's' && (char)result[i + 7] == 'f') {
-                    printf("\n 쌍뻐큐!! ( -_-)- 凸凸 \n"); // 하 우 하 우 s f 
+                    printf("\n 쌍뻐큐!! ( -_-)- 凸凸 \n"); // 우 하 우 s f 
                     // 문자 배열을 비움
                     clear(result, index);
                     index = 0;
